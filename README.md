@@ -216,6 +216,17 @@ pip install -r requirements.txt
 
 欢迎提交 Issue 和 Pull Request！
 
+## 💼 技术服务
+
+**接 AI/Python/量化交易相关项目！**
+
+- LLM 微调与部署
+- RAG 系统开发
+- 量化交易策略
+- 技术咨询
+
+📧 [联系我](CONTACT.md)
+
 ---
 
 ## 📄 许可证
